@@ -45,7 +45,7 @@
   }
 
   .container_thanks {
-      background-image:url(./img/texture_background.png);
+      background-image:url(../img/texture_background.png);
       max-width: 100%;
   }
 
@@ -100,7 +100,7 @@
   }
 
   .img_cart {
-    background-image:url(./img/texture.png);
+    background-image:url(../img/texture.png);
     max-width: 129px;
     max-height:138px;
   }
@@ -255,7 +255,7 @@ color: #BF3E32;
 
 .payment {
     text-align: center;
-    background-image:url(./img/texture_background.png);
+    background-image:url(../img/texture_background.png);
     margin:20px 0 0 0;
     padding: 69px 49px 69px 49px;
     font-family: 'Rodchenko-Regular';
@@ -276,7 +276,7 @@ margin: 20px;
 }
 
 .footer {
-    background-image: url(./img/footer.png);
+    background-image: url(../img/footer.png);
     max-height: 457px;
     color:#fff;
     
