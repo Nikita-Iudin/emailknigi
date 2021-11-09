@@ -45,7 +45,7 @@
   }
 
   .container_thanks {
-      background-image:url('../img/texture_background.png');
+      background-image:url(../img/texture_background.png);
       max-width: 100%;
   }
 
