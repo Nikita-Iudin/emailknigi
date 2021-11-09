@@ -1,0 +1,58 @@
+@media (max-width:450px){
+    .thanks_text {
+        
+        font-size: 30px;
+        
+      }
+      .information {
+    
+        font-size: 17px;
+    }
+    
+    .name_number {
+        
+        font-size: 17px;
+    }
+      .cart {
+      flex-direction:column;
+    }
+    .text_cart {
+        margin-left:0px;
+    }
+    .artprice {
+        margin-top:20px;
+       
+    }
+    .price {
+        
+        margin-top:10px;
+    }
+    .text_cart {
+        margin-top:30px;
+    }
+    .cargo_info_cargoman {
+       
+        font-family: 'Rodchenko-Regular';
+    font-size: 13px;
+    line-height: 21px;
+    
+    
+    } 
+    .footer-block {
+        flex-direction:column;
+    }
+
+    .imgphone .phones {
+        margin-top:10px;
+    }
+
+    .social  {
+        margin-top:10px;
+        margin-left:0px;
+    }
+
+    .email {
+        margin-left: 20px;
+    }
+}
+
